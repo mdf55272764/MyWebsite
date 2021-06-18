@@ -1,0 +1,33 @@
+#banner{
+	width: 100%;
+}
+
+#logo{
+	width: 30%;
+}
+
+body{
+	font-family: 'Prompt', sans-serif;
+	text-align: center;
+	background: #2a4775;
+}
+
+h1{
+	font-size: 260%;
+}
+
+h2{
+	font-size: 200%;
+}
+
+li{
+	list-style-type: none;
+}
+
+#minion{
+	background-color: green;
+	height: 200px;
+	padding: 20px;
+	border: 10px solid red;
+	/*margin: 20px;*/
+}
